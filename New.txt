@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hello
-=======
 Hi
->>>>>>> First line added
+Tree
